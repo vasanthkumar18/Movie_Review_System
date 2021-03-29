@@ -1,4 +1,4 @@
-# moviereview
+# movie_review
 A java code for the movie review service collects reviews for movies from its user and implements more features
 
 
@@ -24,7 +24,7 @@ will be captured with more weightage. i.e. 6 review rating of a critic will be
 considered as 12 (2x) NOTE: Older reviews by the user as `viewer` shall not
 be affected.
 
-> The following features are available in this program:
+**The following features are available in this program:**
 1. Adding users and movies.
 2. User to review a movie.
 3. List top n movies by total review score by ‘critics’ in a particular genre.
