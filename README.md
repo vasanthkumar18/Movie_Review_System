@@ -1,6 +1,6 @@
 # MOVIE REVIEW SYSTEM
-A java code for the movie review service. The program collects reviews for movies from its users and implements many more features. 
-
+**PROJECT**: *A java code for the movie review service. The program collects reviews for movies from its users and implements many more features.*
+![OOPS](https://cdn.slidesharecdn.com/ss_thumbnails/oop-190125211805-thumbnail-4.jpg?cb=1548451240)
 > This program is entirely coded in JAVA
 
 **OVERVIEW**
