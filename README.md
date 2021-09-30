@@ -1,4 +1,4 @@
-# movie_review
+# MOVIE REVIEW SYSTEM
 A java code for the movie review service. The program collects reviews for movies from its users and implements many more features. 
 
 > This program is entirely coded in JAVA
