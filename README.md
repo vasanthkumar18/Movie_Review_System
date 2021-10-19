@@ -1,6 +1,7 @@
 # MOVIE REVIEW SYSTEM
 **PROJECT**: *A java code for the movie review service. The program collects reviews for movies from its users and implements many more features.*
 <br/>
+<br/>
 Everyone needs to find a system and framework that works for them. This isn’t just pragmatics; this is an exhortation to do work of figuring out your own tastes and learning how to thoughtfully expand them. As someone who has built a reputation for my love of film and faith, I’ve recognized that I need to have a sort of public framework, a movie ratings system.
 <br/>
 <br/>
